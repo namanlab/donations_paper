@@ -1,0 +1,33 @@
+\begin{table}[htbp]
+\centering
+\caption{Difference-in-Differences: Ukraine Crisis Effect on Monthly Aggregates}
+\label{tab:did}
+\begin{threeparttable}
+\begin{tabular}{lcccc}
+\toprule
+& (1) & (2) & (3) & (4) \\
+& Total Funding & Log(Funding+1) & Total Donations & N Projects \\
+\midrule
+Ukraine $\times$ Post & 3.95M & 5.40*** & 26.0K*** & 79.46 \\
+& (2.61M) & (0.85) & (9.9K) & (54.73) \\
+\addlinespace
+Ukraine (main effect) & -3.44M* & -8.71*** & -27.8K*** & -298.92*** \\
+& (1.99M) & (0.65) & (7.5K) & (41.80) \\
+\addlinespace
+Post-Invasion & -1.73M & -0.792 & -17.5K** & -72.82* \\
+& (1.85M) & (0.603) & (7.0K) & (38.70) \\
+\midrule
+Observations & 120 & 120 & 120 & 120 \\
+R-squared & 0.026 & 0.670 & 0.112 & 0.440 \\
+\addlinespace
+Pre-invasion Ukraine mean & \$13,330 & --- & 97 & 1.6 \\
+Post-invasion Ukraine mean & \$2,232,661 & --- & 8,559 & 8.2 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Monthly aggregate data, 2020--2024. Each observation is a month $\times$ Ukraine-indicator pair (N = 120 = 60 months $\times$ 2 groups). Ukraine projects had near-zero activity before February 2022; pre-invasion months are included as zeros. The Ukraine $\times$ Post coefficient captures the causal effect of the invasion. Column (1) is in dollars; Column (2) uses log(funding+1); Column (3) counts donations; Column (4) counts projects. * p$<$0.10, ** p$<$0.05, *** p$<$0.01.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

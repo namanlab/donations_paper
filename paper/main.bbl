@@ -1,0 +1,350 @@
+\begin{thebibliography}{53}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agrawal et~al.(2015)Agrawal, Catalini, and Goldfarb]{agrawal2015}
+Ajay Agrawal, Christian Catalini, and Avi Goldfarb.
+\newblock Crowdfunding: Geography, social networks, and the timing of
+  investment decisions.
+\newblock \emph{Journal of Economics \& Management Strategy}, 24\penalty0
+  (2):\penalty0 253--274, 2015.
+
+\bibitem[Andreoni(1990)]{andreoni1990}
+James Andreoni.
+\newblock Impure altruism and donations to public goods: A theory of warm-glow
+  giving.
+\newblock \emph{The Economic Journal}, 100\penalty0 (401):\penalty0 464--477,
+  1990.
+
+\bibitem[Andreoni(1995)]{andreoni1995}
+James Andreoni.
+\newblock Cooperation in public-goods experiments: Kindness or confusion?
+\newblock \emph{American Economic Review}, 85\penalty0 (4):\penalty0 891--904,
+  1995.
+
+\bibitem[Andreoni(2006)]{andreoni2006}
+James Andreoni.
+\newblock Leadership giving in charitable fund-raising.
+\newblock \emph{Journal of Public Economic Theory}, 8\penalty0 (1):\penalty0
+  1--22, 2006.
+
+\bibitem[Ashenfelter and Card(1985)]{ashenfelter1985}
+Orley Ashenfelter and David Card.
+\newblock Using the longitudinal structure of earnings to estimate the effect
+  of training programs.
+\newblock \emph{Review of Economics and Statistics}, 67\penalty0 (4):\penalty0
+  648--660, 1985.
+
+\bibitem[Bekkers and Wiepking(2011)]{bekkers2011}
+Ren{\'e} Bekkers and Pamala Wiepking.
+\newblock A literature review of empirical studies of philanthropy: Eight
+  mechanisms that drive charitable giving.
+\newblock \emph{Nonprofit and Voluntary Sector Quarterly}, 40\penalty0
+  (5):\penalty0 924--973, 2011.
+
+\bibitem[B{\'e}nabou and Tirole(2006)]{benabou2006}
+Roland B{\'e}nabou and Jean Tirole.
+\newblock Incentives and prosocial behavior.
+\newblock \emph{American Economic Review}, 96\penalty0 (5):\penalty0
+  1652--1678, 2006.
+
+\bibitem[Brown et~al.(2012)Brown, Goolsbee, and Petrin]{brown2012}
+Jeffery~R. Brown, Austan Goolsbee, and Amil Petrin.
+\newblock A theory of crowdfunding: A mechanism design approach with demand
+  uncertainty and moral hazard.
+\newblock \emph{Working Paper}, 2012.
+
+\bibitem[Burtch et~al.(2013)Burtch, Ghose, and Wattal]{burtch2013}
+Gordon Burtch, Anindya Ghose, and Sunil Wattal.
+\newblock An empirical examination of the antecedents and consequences of
+  contribution patterns in crowd-funded markets.
+\newblock \emph{Information Systems Research}, 24\penalty0 (3):\penalty0
+  499--519, 2013.
+
+\bibitem[Callaway and Sant'Anna(2021)]{callaway2021}
+Brantly Callaway and Pedro H.~C. Sant'Anna.
+\newblock Difference-in-differences with multiple time periods.
+\newblock \emph{Journal of Econometrics}, 225\penalty0 (2):\penalty0 200--230,
+  2021.
+
+\bibitem[Camerer(2003)]{camerer2003}
+Colin~F. Camerer.
+\newblock \emph{Behavioral Game Theory: Experiments in Strategic Interaction}.
+\newblock Princeton University Press, Princeton, NJ, 2003.
+
+\bibitem[Card(1990)]{card1990}
+David Card.
+\newblock The impact of the mariel boatlift on the miami labor market.
+\newblock \emph{Industrial and Labor Relations Review}, 43\penalty0
+  (2):\penalty0 245--257, 1990.
+
+\bibitem[Clotfelter(1985)]{clotfelter1985}
+Charles~T. Clotfelter.
+\newblock \emph{Federal Tax Policy and Charitable Giving}.
+\newblock University of Chicago Press, Chicago, 1985.
+
+\bibitem[Dana et~al.(2006)Dana, Weber, and Kuang]{dana2006}
+Jason Dana, Roberto~A. Weber, and Jason~Xi Kuang.
+\newblock Exploiting moral wiggle room: Experiments demonstrating an illusory
+  preference for fairness.
+\newblock \emph{Economic Theory}, 33\penalty0 (1):\penalty0 67--80, 2006.
+
+\bibitem[de~Chaisemartin and D'Haultf{\oe}uille(2020)]{dechaisemartin2020}
+Cl{\'e}ment de~Chaisemartin and Xavier D'Haultf{\oe}uille.
+\newblock Two-way fixed effects estimators with heterogeneous treatment
+  effects.
+\newblock \emph{American Economic Review}, 110\penalty0 (9):\penalty0
+  2964--2996, 2020.
+
+\bibitem[DellaVigna et~al.(2012)DellaVigna, List, and
+  Malmendier]{dellavigna2012}
+Stefano DellaVigna, John~A. List, and Ulrike Malmendier.
+\newblock Testing for altruism and social pressure in charitable giving.
+\newblock \emph{Quarterly Journal of Economics}, 127\penalty0 (1):\penalty0
+  1--56, 2012.
+
+\bibitem[Eckel and Grossman(2007)]{eckel2007}
+Catherine~C. Eckel and Philip~J. Grossman.
+\newblock The relative price of fairness: Gender differences in a punishment
+  game.
+\newblock \emph{Journal of Economic Behavior \& Organization}, 63\penalty0
+  (3):\penalty0 433--451, 2007.
+
+\bibitem[Eisensee and Str{\"o}mberg(2007)]{eisensee2007}
+Thomas Eisensee and David Str{\"o}mberg.
+\newblock News droughts, news floods, and us disaster relief.
+\newblock \emph{Quarterly Journal of Economics}, 122\penalty0 (2):\penalty0
+  693--728, 2007.
+
+\bibitem[Ekman(1992)]{ekman1992}
+Paul Ekman.
+\newblock An argument for basic emotions.
+\newblock \emph{Cognition \& Emotion}, 6\penalty0 (3-4):\penalty0 169--200,
+  1992.
+
+\bibitem[Fong and Luttmer(2009)]{fong2009}
+Christina~M. Fong and Erzo F.~P. Luttmer.
+\newblock Evidence from an experiment on charity to welfare recipients:
+  Reciprocity, altruism and the empathic responsiveness hypothesis.
+\newblock \emph{The Economic Journal}, 119\penalty0 (536):\penalty0 1004--1028,
+  2009.
+
+\bibitem[Forsythe et~al.(1994)Forsythe, Horowitz, Savin, and
+  Sefton]{forsythe1994}
+Robert Forsythe, Joel~L. Horowitz, N.~E. Savin, and Martin Sefton.
+\newblock Fairness in simple bargaining experiments.
+\newblock \emph{Games and Economic Behavior}, 6\penalty0 (3):\penalty0
+  347--369, 1994.
+
+\bibitem[{Giving USA Foundation}(2023)]{givingusa2023}
+{Giving USA Foundation}.
+\newblock Giving usa 2023: The annual report on philanthropy for the year 2022.
+\newblock Technical report, Giving USA Foundation, Chicago, IL, 2023.
+
+\bibitem[Gneezy et~al.(2014)Gneezy, Gneezy, Riener, and Nelson]{gneezy2014}
+Ayelet Gneezy, Uri Gneezy, Gerhard Riener, and Leif~D. Nelson.
+\newblock Pay what you want, identity, and self-signaling in markets.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 111\penalty0
+  (23):\penalty0 7236--7240, 2014.
+
+\bibitem[Goodman-Bacon(2021)]{goodmanbacon2021}
+Andrew Goodman-Bacon.
+\newblock Difference-in-differences with variation in treatment timing.
+\newblock \emph{Journal of Econometrics}, 225\penalty0 (2):\penalty0 254--277,
+  2021.
+
+\bibitem[Harbaugh(1998)]{harbaugh1998}
+William~T. Harbaugh.
+\newblock What do donations buy? a model of philanthropy based on prestige and
+  warm glow.
+\newblock \emph{Journal of Public Economics}, 67\penalty0 (2):\penalty0
+  269--284, 1998.
+
+\bibitem[Hu and Liu(2004)]{hu2004}
+Minqing Hu and Bing Liu.
+\newblock Mining and summarizing customer reviews.
+\newblock In \emph{Proceedings of the Tenth ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, pages 168--177. ACM, 2004.
+
+\bibitem[Hungerman(2008)]{hungerman2008}
+Daniel~M. Hungerman.
+\newblock Race and charitable church activity.
+\newblock \emph{Economic Inquiry}, 46\penalty0 (3):\penalty0 380--400, 2008.
+
+\bibitem[Hungerman and Ottoni-Wilhelm(2014)]{hungerman2014}
+Daniel~M. Hungerman and Mark Ottoni-Wilhelm.
+\newblock Do givers give time? evidence on the relationship between religious
+  giving and time use.
+\newblock \emph{Review of Economics and Statistics}, 96\penalty0 (3):\penalty0
+  556--566, 2014.
+
+\bibitem[Kahneman(2011)]{kahneman2011}
+Daniel Kahneman.
+\newblock \emph{Thinking, Fast and Slow}.
+\newblock Farrar, Straus and Giroux, New York, 2011.
+
+\bibitem[Kamatham et~al.(2021)Kamatham, Pahwa, Jiang, and Kumar]{kamatham2021}
+Sri~Harsha Kamatham, Parneet Pahwa, Juncai Jiang, and Nanda Kumar.
+\newblock Effect of appeal content on fundraising success and donor behavior.
+\newblock \emph{Journal of Business Research}, 125:\penalty0 827--839, 2021.
+\newblock \doi{10.1016/j.jbusres.2020.04.007}.
+
+\bibitem[Karlan and List(2007)]{karlan2007}
+Dean Karlan and John~A. List.
+\newblock Does price matter in charitable giving? evidence from a large-scale
+  natural field experiment.
+\newblock \emph{American Economic Review}, 97\penalty0 (5):\penalty0
+  1774--1793, 2007.
+
+\bibitem[Karlan et~al.(2017)Karlan, List, and Shafir]{karlan2017}
+Dean Karlan, John~A. List, and Eldar Shafir.
+\newblock Does price matter in charitable giving? evidence from a large-scale
+  natural field experiment.
+\newblock \emph{Journal of Economic Perspectives}, 31\penalty0 (4):\penalty0
+  199--222, 2017.
+
+\bibitem[Kim and Hemphill(2025)]{kimhemphill2025}
+Ji~Eun Kim and Libby Hemphill.
+\newblock The effects of moral framing on online fundraising outcomes: Evidence
+  from {GoFundMe} campaigns.
+\newblock \emph{arXiv preprint}, 2025.
+\newblock arXiv:2505.11367.
+
+\bibitem[Kingma(1989)]{kingma1989}
+Bruce~Robert Kingma.
+\newblock An accurate measurement of the crowd-out effect, income effect, and
+  price effect for charitable contributions.
+\newblock \emph{Journal of Political Economy}, 97\penalty0 (5):\penalty0
+  1197--1207, 1989.
+
+\bibitem[Koenker and Bassett(1978)]{koenker1978}
+Roger Koenker and Gilbert Bassett.
+\newblock Regression quantiles.
+\newblock \emph{Econometrica}, 46\penalty0 (1):\penalty0 33--50, 1978.
+
+\bibitem[Kuppuswamy and Bayus(2014)]{kuppuswamy2014}
+Venkat Kuppuswamy and Barry~L. Bayus.
+\newblock Crowdfunding creative ideas: The dynamics of project backers in
+  kickstarter.
+\newblock \emph{SSRN Working Paper}, 2014.
+
+\bibitem[Lu et~al.(2024)Lu, Xu, and Fan]{lu2024}
+Baozhou Lu, Tailai Xu, and Weiguo Fan.
+\newblock How do emotions affect giving? examining the effects of textual and
+  facial emotions in charitable crowdfunding.
+\newblock \emph{Financial Innovation}, 10\penalty0 (108), 2024.
+\newblock \doi{10.1186/s40854-024-00630-6}.
+
+\bibitem[Meer(2014)]{meer2014}
+Jonathan Meer.
+\newblock Effects of the price of charitable giving: Evidence from an online
+  crowdfunding platform.
+\newblock \emph{Journal of Economic Behavior \& Organization}, 103:\penalty0
+  113--124, 2014.
+
+\bibitem[Mollick(2014)]{mollick2014}
+Ethan Mollick.
+\newblock The dynamics of crowdfunding: An exploratory study.
+\newblock \emph{Journal of Business Venturing}, 29\penalty0 (1):\penalty0
+  1--16, 2014.
+
+\bibitem[Nielsen(2011)]{nielsen2011}
+Finn~{\AA}rup Nielsen.
+\newblock A new {ANEW}: Evaluation of a word list for sentiment analysis in
+  microblogs.
+\newblock \emph{Proceedings of the ESWC2011 Workshop on ``Making Sense of
+  Microposts'': Big Things Come in Small Packages}, pages 93--98, 2011.
+
+\bibitem[Payne(1998)]{payne1998}
+A.~Abigail Payne.
+\newblock Does the government crowd-out private donations? new evidence from a
+  sample of non-profit firms.
+\newblock \emph{Journal of Public Economics}, 69\penalty0 (3):\penalty0
+  323--345, 1998.
+
+\bibitem[Plutchik(1980)]{plutchik1980}
+Robert Plutchik.
+\newblock \emph{Emotion: A Psychoevolutionary Synthesis}.
+\newblock Harper \& Row, New York, 1980.
+
+\bibitem[Randolph(1995)]{randolph1995}
+William~C. Randolph.
+\newblock Dynamic income, progressive taxes, and the timing of charitable
+  contributions.
+\newblock \emph{Journal of Political Economy}, 103\penalty0 (4):\penalty0
+  709--738, 1995.
+
+\bibitem[Roberts(1984)]{roberts1984}
+Russell~D. Roberts.
+\newblock A positive model of private charity and public transfers.
+\newblock \emph{Journal of Political Economy}, 92\penalty0 (1):\penalty0
+  136--148, 1984.
+
+\bibitem[Roth et~al.(2023)Roth, Sant'Anna, Bilinski, and Poe]{roth2023}
+Jonathan Roth, Pedro H.~C. Sant'Anna, Alyssa Bilinski, and John Poe.
+\newblock What's trending in difference-in-differences? a synthesis of the
+  recent econometrics literature.
+\newblock \emph{Journal of Econometrics}, 235\penalty0 (2):\penalty0
+  2218--2244, 2023.
+
+\bibitem[Saeri et~al.(2022)Saeri, Slattery, Tear, Bittar, Marriott, and
+  Bogueva]{saeri2022}
+Alexander~K. Saeri, Peter Slattery, Morgan~J. Tear, Helena Bittar, Patricia
+  Marriott, and Diana Bogueva.
+\newblock What works to increase charitable donations? a meta-review with
+  meta-meta-analysis.
+\newblock \emph{VOLUNTAS: International Journal of Voluntary and Nonprofit
+  Organizations}, 33:\penalty0 1017--1032, 2022.
+\newblock \doi{10.1007/s11266-022-00499-y}.
+
+\bibitem[Samuelson(1954)]{samuelson1954}
+Paul~A. Samuelson.
+\newblock The pure theory of public expenditure.
+\newblock \emph{Review of Economics and Statistics}, 36\penalty0 (4):\penalty0
+  387--389, 1954.
+
+\bibitem[Schwirplies(2023)]{scharf2023}
+Claudia Schwirplies.
+\newblock Does additional demand for charitable aid increase giving? evidence
+  from {Hurricane Sandy}.
+\newblock \emph{Journal of Economic Behavior \& Organization}, 207:\penalty0
+  366--380, 2023.
+\newblock \doi{10.1016/j.jebo.2023.01.013}.
+
+\bibitem[Slovic(2007)]{slovic2007}
+Paul Slovic.
+\newblock ``if i look at the mass i will never act'': Psychic numbing and
+  genocide.
+\newblock \emph{Judgment and Decision Making}, 2\penalty0 (2):\penalty0 79--95,
+  2007.
+
+\bibitem[Small et~al.(2007)Small, Loewenstein, and Slovic]{small2007}
+Deborah~A. Small, George Loewenstein, and Paul Slovic.
+\newblock Sympathy and callousness: The impact of deliberative thought on
+  donations to identifiable and statistical victims.
+\newblock \emph{Organizational Behavior and Human Decision Processes},
+  102\penalty0 (2):\penalty0 143--153, 2007.
+
+\bibitem[Sun and Abraham(2021)]{sun2021}
+Liyang Sun and Sarah Abraham.
+\newblock Estimating dynamic treatment effects in event studies with
+  heterogeneous treatment effects.
+\newblock \emph{Journal of Econometrics}, 225\penalty0 (2):\penalty0 175--199,
+  2021.
+
+\bibitem[{UNHCR}(2022)]{unhcr2022}
+{UNHCR}.
+\newblock Global trends: Forced displacement in 2022.
+\newblock Technical report, United Nations High Commissioner for Refugees,
+  Geneva, 2022.
+
+\bibitem[Warr(1982)]{warr1982}
+Peter~G. Warr.
+\newblock Pareto optimal redistribution and private charity.
+\newblock \emph{Journal of Public Economics}, 19\penalty0 (1):\penalty0
+  131--138, 1982.
+
+\end{thebibliography}

@@ -1,0 +1,37 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Sat, Feb 14, 2026 - 08:19:32
+\begin{table}[!htbp] \centering 
+  \caption{OLS Robustness: Alternative Specifications} 
+  \label{tab:robustness} 
+\begin{tabular}{@{\extracolsep{5pt}}lccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{5}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-6} 
+\\[-1.8ex] & \multicolumn{5}{c}{Log(Funding)} \\ 
+ & Baseline & Winsorized & Excl. COVID & Completed & Goal>\$1K \\ 
+\\[-1.8ex] & (1) & (2) & (3) & (4) & (5)\\ 
+\hline \\[-1.8ex] 
+ Log(Goal) & 0.263$^{***}$ & 0.255$^{***}$ & 0.237$^{***}$ & 0.306$^{***}$ & 0.282$^{***}$ \\ 
+  & (0.010) & (0.010) & (0.011) & (0.012) & (0.012) \\ 
+  & & & & & \\ 
+ Constant & 3.917$^{***}$ & 3.977$^{***}$ & 4.310$^{***}$ & 3.321$^{***}$ & 3.722$^{***}$ \\ 
+  & (0.175) & (0.175) & (0.186) & (0.192) & (0.189) \\ 
+  & & & & & \\ 
+\hline \\[-1.8ex] 
+Theme FE & Yes & Yes & Yes & Yes & Yes \\ 
+Region FE & Yes & Yes & Yes & Yes & Yes \\ 
+Year FE & Yes & Yes & Yes & Yes & Yes \\ 
+Observations & 42,149 & 42,149 & 34,773 & 36,077 & 40,005 \\ 
+R$^{2}$ & 0.131 & 0.130 & 0.133 & 0.142 & 0.133 \\ 
+Adjusted R$^{2}$ & 0.130 & 0.129 & 0.132 & 0.141 & 0.132 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{5}{r}{Robust standard errors in parentheses.} \\ 
+ & \multicolumn{5}{r}{Column (2) winsorizes at 1st/99th percentiles.} \\ 
+ & \multicolumn{5}{r}{Column (3) excludes 2020-2021. Column (4) restricts to completed projects.} \\ 
+ & \multicolumn{5}{r}{Column (5) excludes goals below \$1,000.} \\ 
+ & \multicolumn{5}{r}{* p<0.1; ** p<0.05; *** p<0.01} \\ 
+\end{tabular} 
+\end{table} 

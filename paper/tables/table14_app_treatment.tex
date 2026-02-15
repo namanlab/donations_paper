@@ -1,0 +1,59 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Sat, Feb 14, 2026 - 08:19:33
+\begin{table}[!htbp] \centering 
+  \caption{Robustness to Alternative Ukraine Treatment Definitions} 
+  \label{tab:app_treatment} 
+\begin{tabular}{@{\extracolsep{5pt}}lcccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{4}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-5} 
+\\[-1.8ex] & \multicolumn{4}{c}{Log(Funding)} \\ 
+ & Baseline & Country Only & Keywords Only & Both Required \\ 
+\\[-1.8ex] & (1) & (2) & (3) & (4)\\ 
+\hline \\[-1.8ex] 
+ Ukraine-Related & 2.219 &  &  &  \\ 
+  & (1.960) &  &  &  \\ 
+  & & & & \\ 
+ Post-Invasion &  & 2.218 &  &  \\ 
+  &  & (1.965) &  &  \\ 
+  & & & & \\ 
+ Ukraine $\times$ Post &  &  & 3.998 &  \\ 
+  &  &  & (2.769) &  \\ 
+  & & & & \\ 
+ Log(Goal) &  &  &  & 3.996 \\ 
+  &  &  &  & (2.775) \\ 
+  & & & & \\ 
+ post & $-$0.518$^{***}$ & $-$0.483$^{***}$ & $-$0.510$^{***}$ & $-$0.474$^{***}$ \\ 
+  & (0.162) & (0.162) & (0.162) & (0.161) \\ 
+  & & & & \\ 
+ log\_goal & 0.748$^{***}$ & 0.749$^{***}$ & 0.748$^{***}$ & 0.749$^{***}$ \\ 
+  & (0.045) & (0.046) & (0.045) & (0.046) \\ 
+  & & & & \\ 
+ ukraine\_baselineTRUE:post & $-$0.505 &  &  &  \\ 
+  & (1.983) &  &  &  \\ 
+  & & & & \\ 
+ ukraine\_countryTRUE:post &  & $-$0.556 &  &  \\ 
+  &  & (1.991) &  &  \\ 
+  & & & & \\ 
+ ukraine\_keywordsTRUE:post &  &  & $-$2.200 &  \\ 
+  &  &  & (2.786) &  \\ 
+  & & & & \\ 
+ ukraine\_bothTRUE:post &  &  &  & $-$2.232 \\ 
+  &  &  &  & (2.795) \\ 
+  & & & & \\ 
+ Constant & $-$1.112$^{**}$ & $-$1.125$^{**}$ & $-$1.112$^{**}$ & $-$1.123$^{**}$ \\ 
+  & (0.488) & (0.489) & (0.488) & (0.489) \\ 
+  & & & & \\ 
+\hline \\[-1.8ex] 
+Observations & 1,323 & 1,323 & 1,323 & 1,323 \\ 
+R$^{2}$ & 0.195 & 0.191 & 0.195 & 0.191 \\ 
+Adjusted R$^{2}$ & 0.192 & 0.188 & 0.193 & 0.189 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{4}{r}{Robust standard errors in parentheses.} \\ 
+ & \multicolumn{4}{r}{Sample: Disaster response projects, 2020-2024.} \\ 
+ & \multicolumn{4}{r}{* p<0.1; ** p<0.05; *** p<0.01} \\ 
+\end{tabular} 
+\end{table} 

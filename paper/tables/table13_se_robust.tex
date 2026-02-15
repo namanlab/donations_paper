@@ -1,0 +1,21 @@
+\begin{table}[htbp]
+\centering
+\caption{Standard Error Sensitivity Analysis}
+\label{tab:se_robust}
+\begin{tabular}{lccccc}
+\toprule
+& (1) & (2) & (3) & (4) & (5) \\
+& Classical & Robust (HC2) & Theme Cluster & Region Cluster & Year Cluster \\
+\midrule
+Log(Goal) & 0.263*** & 0.263*** & 0.263*** & 0.263*** & 0.263*** \\
+& (0.010) & (0.010) & (0.047) & (0.098) & (0.051) \\
+\midrule
+Observations & 42149 & 42149 & 42149 & 42149 & 42149 \\
+Clusters & -- & -- & 28 & 7 & 15 \\
+\bottomrule
+\end{tabular}
+\begin{customnotes}
+Standard errors in parentheses. * p$<$0.10, ** p$<$0.05, *** p$<$0.01. All columns report the same OLS regression with different standard error specifications.
+\end{customnotes}
+\end{table}
+
