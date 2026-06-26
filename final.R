@@ -1,8 +1,3 @@
-# ==============================================================================
-# FINAL.R - COMPREHENSIVE ANALYSIS SCRIPT
-# Generates ALL figures and tables for the charitable giving paper
-# ==============================================================================
-
 rm(list = ls())
 
 # Load libraries

@@ -291,7 +291,3 @@ cat("  • At invasion: Ukraine gets", round(exp(invasion_effect), 1),
 cat("  • Post-war average:", round(exp(mean(post_effects$estimate)), 2),
     "x more funding\n")
 cat("  • Results robust to controlling for goal size\n\n")
-
-cat("INTERPRETATION:\n")
-cat("Strong evidence of substitution effect: Donors shifted funding\n")
-cat("TO Ukraine causes after the invasion.\n\n")
