@@ -1,0 +1,48 @@
+\begin{table}[htbp]
+\centering
+\caption{Loser Analysis: Predictors of Bottom-Quartile Funding}
+\label{tab:loser_analysis}
+\begin{threeparttable}
+\begin{tabular}{lcc}
+\toprule
+& (1) & (2) \\
+& Pr(Bottom Quartile) & With Interactions \\
+\midrule
+\multicolumn{3}{l}{\textit{Panel A: Baseline Effects}} \\
+Disaster Response & -0.135 & -0.150 \\
+& (0.083) & (0.161) \\
+Child Protection & 0.042 & -0.438* \\
+& (0.093) & (0.229) \\
+Refugee Rights & -0.076 & -0.135 \\
+& (0.212) & (0.448) \\
+Physical Health & -0.087 & 0.067 \\
+& (0.063) & (0.132) \\
+Education & 0.013 & -0.084 \\
+& (0.056) & (0.112) \\
+Log(Goal) & -0.020 & -0.016 \\
+& (0.014) & (0.014) \\
+Log(Duration) & -0.479*** & -0.458*** \\
+& (0.025) & (0.026) \\
+\addlinespace
+\multicolumn{3}{l}{\textit{Panel B: Post-War Interactions}} \\
+Disaster Response $\times$ Post-War & --- & -0.007 \\
+& & (0.186) \\
+Child Protection $\times$ Post-War & --- & 0.521** \\
+& & (0.253) \\
+Refugee Rights $\times$ Post-War & --- & 0.020 \\
+& & (0.512) \\
+Physical Health $\times$ Post-War & --- & -0.313** \\
+& & (0.150) \\
+Education $\times$ Post-War & --- & 0.130 \\
+& & (0.131) \\
+\midrule
+Observations & 12,084 & 12,084 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Logit regression. Dependent variable = 1 if project in bottom quartile of within-theme funding. Negative coefficients indicate features that protect against being crowded out. Sample: non-Ukraine projects, 2020--2024. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

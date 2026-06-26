@@ -1,0 +1,28 @@
+\begin{table}[htbp]
+\centering
+\caption{Difference-in-Differences Estimates: Ukraine Invasion Effect}
+\label{tab:did}
+\begin{threeparttable}
+\begin{tabular}{lcccc}
+\toprule
+& (1) & (2) & (3) & (4) \\
+& Log(Funding) & Log(Avg Donation) & Log(\# Donations) & Fully Funded (\%) \\
+\midrule
+Ukraine & -8.71*** & -1.53*** & -7.14*** & -0.01 \\
+& (0.64) & (0.30) & (0.44) & (0.02) \\
+Post & 3.49** & 1.80** & 1.73 & 0.00 \\
+& (1.72) & (0.81) & (1.17) & (0.06) \\
+Ukraine $\times$ Post & 5.40*** & 1.77*** & 3.61*** & -0.00 \\
+& (0.84) & (0.39) & (0.57) & (0.03) \\
+\addlinespace
+Observations & 120 & 120 & 120 & 120 \\
+Year FE & Yes & Yes & Yes & Yes \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Monthly aggregate data, 2020--2024. Ukraine $\times$ Post captures the differential change in outcomes for Ukraine-related projects after February 2022. Robust standard errors in parentheses. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

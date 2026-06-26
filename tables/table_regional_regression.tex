@@ -1,0 +1,38 @@
+\begin{table}[htbp]
+\centering
+\caption{Regional Disparities in Project Funding}
+\label{tab:regional_regression}
+\begin{threeparttable}
+\begin{tabular}{lccccc}
+\toprule
+& \multicolumn{5}{c}{Log(Funding)} \\
+\cmidrule(lr){2-6}
+& (1) & (2) & (3) & (4) & (5) \\
+\midrule
+Africa & -1.159*** & -0.879*** & -0.847*** & -0.452*** & -0.163*** \\
+& (0.052) & (0.049) & (0.049) & (0.044) & (0.024) \\
+Asia and Oceania & -0.395*** & -0.241*** & -0.229*** & -0.149*** & 0.034 \\
+& (0.054) & (0.050) & (0.048) & (0.043) & (0.023) \\
+Europe and Russia & 0.174** & -0.054 & 0.002 & 0.304*** & -0.007 \\
+& (0.074) & (0.069) & (0.066) & (0.058) & (0.032) \\
+Latin America & -0.096 & 0.027 & 0.044 & 0.219*** & 0.002 \\
+& (0.062) & (0.058) & (0.053) & (0.049) & (0.026) \\
+Middle East & 0.292*** & -0.075 & 0.019 & 0.555*** & -0.135*** \\
+& (0.100) & (0.093) & (0.094) & (0.083) & (0.043) \\
+\midrule
+Log(Goal) & No & Yes & Yes & Yes & Yes \\
+Theme FE & No & No & Yes & Yes & Yes \\
+Year FE & No & No & No & Yes & Yes \\
+Duration & No & No & No & Yes & Yes \\
+Log(Donations) & No & No & No & No & Yes \\
+\midrule
+Observations & 27,646 & 27,646 & 27,646 & 27,646 & 27,646 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Reference category is North America. Robust standard errors in parentheses for columns (3)--(5). *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

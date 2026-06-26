@@ -1,0 +1,27 @@
+\begin{table}[htbp]
+\centering
+\caption{Origin-Destination Match Effects on Funding Outcomes}
+\label{tab:origin_destination}
+\begin{threeparttable}
+\begin{tabular}{lcccc}
+\toprule
+& (1) & (2) & (3) & (4) \\
+& Log(Funding) & Log(Avg Donation) & Log(\# Donations) & Fully Funded \\
+\midrule
+Origin = Destination & -0.455*** & -0.120*** & -0.299*** & -0.002 \\
+& (0.026) & (0.015) & (0.016) & (0.003) \\
+\midrule
+Theme/Year FE & Yes & Yes & Yes & Yes \\
+Log(Goal), Duration & Yes & Yes & Yes & Yes \\
+\midrule
+Observations & \multicolumn{4}{c}{32,968} \\
+R-squared & 0.409 & 0.168 & 0.486 & 0.175 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Origin = Destination is a binary indicator equal to 1 when the organization's contact country matches the project's operating country (domestic projects). Origin refers to contact\_country (organization location); Destination refers to country (project location). Note that this indicates where the organization is based, not where individual donors are located. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

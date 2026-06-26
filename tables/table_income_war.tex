@@ -1,0 +1,45 @@
+\begin{table}[htbp]
+\centering
+\caption{Income Level Disparities and Post-War Dynamics: Full Sample vs. Non-Ukraine Projects}
+\label{tab:income_war}
+\begin{threeparttable}
+\small
+\begin{tabular}{lcccccccc}
+\toprule
+& \multicolumn{4}{c}{Full Sample} & \multicolumn{4}{c}{Non-Ukraine Only} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& Log(Fund) & Log(Avg) & Log(\#) & Funded & Log(Fund) & Log(Avg) & Log(\#) & Funded \\
+& (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8) \\
+\midrule
+\multicolumn{9}{l}{\textit{Panel A: Baseline Income Effects}} \\
+Upper Middle Income & 0.049 & 0.006 & 0.056* & 0.018** & 0.045 & 0.006 & 0.053* & 0.017** \\
+& (0.044) & (0.024) & (0.030) & (0.007) & (0.045) & (0.024) & (0.031) & (0.007) \\
+Lower Middle Income & -0.240*** & -0.051** & -0.170*** & 0.023*** & -0.242*** & -0.051** & -0.172*** & 0.023*** \\
+& (0.038) & (0.021) & (0.026) & (0.006) & (0.038) & (0.021) & (0.026) & (0.006) \\
+Low Income & -0.280*** & -0.001 & -0.243*** & 0.049*** & -0.284*** & -0.002 & -0.246*** & 0.048*** \\
+& (0.049) & (0.027) & (0.033) & (0.008) & (0.049) & (0.027) & (0.033) & (0.008) \\
+\addlinespace
+\multicolumn{9}{l}{\textit{Panel B: Post-War Interactions}} \\
+Post-War & 0.354** & 0.203** & 0.113 & -0.013 & 0.330* & 0.211** & 0.084 & -0.017 \\
+ & (0.180) & (0.100) & (0.110) & (0.020) & (0.182) & (0.101) & (0.110) & (0.021) \\
+Upper Middle Income $\times$ Post-War & -0.066 & -0.050 & -0.015 & -0.001 & -0.126 & -0.086 & -0.036 & -0.001 \\
+ & (0.114) & (0.068) & (0.064) & (0.011) & (0.121) & (0.072) & (0.067) & (0.011) \\
+Lower Middle Income $\times$ Post-War & -0.141 & -0.320*** & 0.166*** & -0.076*** & -0.118 & -0.311*** & 0.178*** & -0.074*** \\
+ & (0.099) & (0.059) & (0.055) & (0.009) & (0.101) & (0.061) & (0.056) & (0.009) \\
+Low Income $\times$ Post-War & -0.706*** & -0.454*** & -0.216*** & -0.043*** & -0.683*** & -0.446*** & -0.202*** & -0.041*** \\
+ & (0.125) & (0.077) & (0.066) & (0.011) & (0.127) & (0.078) & (0.067) & (0.011) \\
+\midrule
+Theme/Year FE & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes \\
+Log(Goal), Duration & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes \\
+\midrule
+Observations & 27,163 & 27,163 & 27,163 & 27,163 & 26,818 & 26,818 & 26,818 & 26,818 \\
+R-squared & 0.346 & 0.083 & 0.448 & 0.188 & 0.346 & 0.082 & 0.448 & 0.188 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Robust standard errors in parentheses. *** p$<$0.01, ** p$<$0.05, * p$<$0.1. All models include post-war interactions. Columns 1-4: full sample; columns 5-8: non-Ukraine only. Income classifications based on World Bank income groups. Reference category: High Income countries. Sample excludes unclassified countries.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

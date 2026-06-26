@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\caption{Robustness of DiD Estimates Across Specifications}
+\label{tab:robust_did}
+\begin{threeparttable}
+\begin{tabular}{lcccc}
+\toprule
+& (1) & (2) & (3) & (4) \\
+& Levels & Log & Share & Winsorized \\
+\midrule
+Ukraine $\times$ Post & 3.95M & 5.40*** & 0.19*** & 5.28*** \\
+& (2.61M) & (0.84) & (0.06) & (0.81) \\
+\addlinespace
+Observations & 120 & 120 & 120 & 120 \\
+Year FE & Yes & Yes & Yes & Yes \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Monthly aggregate data, 2020--2024. Column (1): funding in levels. Column (2): log(funding+1). Column (3): Ukraine share of monthly platform funding. Column (4): funding winsorized at 5th/95th percentiles then log-transformed. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

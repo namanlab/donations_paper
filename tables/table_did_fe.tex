@@ -1,0 +1,29 @@
+\begin{table}[htbp]
+\centering
+\caption{DiD Robustness: Additional Fixed Effects}
+\label{tab:did_fe}
+\begin{threeparttable}
+\small
+\begin{tabular}{lcccc}
+\toprule
+& \multicolumn{4}{c}{Ukraine $\times$ Post Coefficient} \\
+\cmidrule(lr){2-5}
+Specification & Log(Funding) & Log(Avg Don) & Log(\# Don) & Fully Funded \\
+\midrule
+Baseline (Year FE) & 5.402*** & 1.766*** & 3.605*** & -0.004 \\
+& (0.839) & (0.394) & (0.571) & (0.027) \\
++ Log(Goal) FE & 5.182*** & 1.923*** & 3.260*** & 0.016 \\
+& (0.950) & (0.449) & (0.655) & (0.033) \\
++ Log(Duration) FE & 5.763*** & 2.214*** & 3.556*** & -0.046 \\
+& (0.960) & (0.458) & (0.648) & (0.033) \\
++ Both FE & 5.962*** & 2.364*** & 3.613*** & -0.021 \\
+& (1.068) & (0.512) & (0.729) & (0.038) \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: DiD estimates with additional fixed effects. Goal FE and Duration FE are based on decile bins of monthly average log(goal) and log(duration). *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

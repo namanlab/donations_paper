@@ -1,0 +1,33 @@
+\begin{table}[htbp]
+\centering
+\caption{Competition Sets: Ukraine vs. Other Disaster Response Projects}
+\label{tab:competition_sets}
+\begin{threeparttable}
+\begin{tabular}{lcccc}
+\toprule
+& \multicolumn{2}{c}{Ukraine Projects} & \multicolumn{2}{c}{Other Disaster Projects} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& Pre-War & Post-War & Pre-War & Post-War \\
+\midrule
+\multicolumn{5}{l}{\textit{Panel A: Descriptive Statistics (Monthly Averages)}} \\
+Mean Funding per Project & \$83,066 & \$197,517 & \$56,879 & \$36,217 \\
+Mean Donations per Project & 366 & 789 & 277 & 144 \\
+Mean Projects/Month & 0.1 & 2.7 & 19.8 & 20.9 \\
+\addlinespace
+\multicolumn{5}{l}{\textit{Panel B: Difference-in-Differences Estimates}} \\
+& \multicolumn{2}{c}{Log(Funding)} & \multicolumn{2}{c}{Log(Donations)} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+Ukraine $\times$ Post & \multicolumn{2}{c}{6.731***} & \multicolumn{2}{c}{3.587***} \\
+& \multicolumn{2}{c}{(1.173)} & \multicolumn{2}{c}{(0.774)} \\
+\addlinespace
+Observations & \multicolumn{4}{c}{89} \\
+Year FE & \multicolumn{4}{c}{Yes} \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Panel A shows monthly aggregate statistics for Ukraine-related vs. other disaster response projects. Panel B presents difference-in-differences estimates comparing funding changes for Ukraine projects vs. other disaster projects before and after February 2022. Positive DiD coefficient indicates Ukraine projects gained disproportionately. *** p$<$0.01, ** p$<$0.05, * p$<$0.1.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+

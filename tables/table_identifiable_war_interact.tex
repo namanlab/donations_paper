@@ -1,0 +1,47 @@
+\begin{table}[htbp]
+\centering
+\caption{Identifiable Victim Effects: Full Sample vs. Non-Ukraine Projects}
+\label{tab:identifiable}
+\begin{threeparttable}
+\small
+\begin{tabular}{lcccccccc}
+\toprule
+& \multicolumn{4}{c}{Full Sample} & \multicolumn{4}{c}{Non-Ukraine Only} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& Log(Fund) & Log(Avg) & Log(\#) & Funded & Log(Fund) & Log(Avg) & Log(\#) & Funded \\
+& (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8) \\
+\midrule
+\multicolumn{9}{l}{\textit{Panel A: Baseline Effects}} \\
+Named Individual & 0.130** & 0.124*** & 0.012 & 0.006 & 0.128** & 0.120*** & 0.014 & 0.006 \\
+& (0.057) & (0.033) & (0.036) & (0.010) & (0.057) & (0.033) & (0.036) & (0.010) \\
+Personal Story & 0.333*** & 0.140*** & 0.177*** & 0.075*** & 0.336*** & 0.144*** & 0.177*** & 0.075*** \\
+& (0.074) & (0.043) & (0.049) & (0.015) & (0.074) & (0.044) & (0.050) & (0.015) \\
+Singular Framing & 0.076 & 0.006 & 0.069 & 0.005 & 0.082 & 0.011 & 0.071 & 0.004 \\
+& (0.131) & (0.073) & (0.086) & (0.021) & (0.131) & (0.073) & (0.086) & (0.021) \\
+Quantified Impact & 0.120*** & 0.007 & 0.094*** & -0.009 & 0.122*** & 0.008 & 0.095*** & -0.009 \\
+& (0.038) & (0.021) & (0.025) & (0.006) & (0.038) & (0.021) & (0.026) & (0.006) \\
+\addlinespace
+\multicolumn{9}{l}{\textit{Panel B: Post-War Interactions}} \\
+Named Individual $\times$ Post-War & 0.897*** & 0.364*** & 0.497*** & -0.051*** & 0.932*** & 0.382*** & 0.512*** & -0.050*** \\
+& (0.104) & (0.062) & (0.059) & (0.012) & (0.105) & (0.063) & (0.059) & (0.012) \\
+Personal Story $\times$ Post-War & -0.168 & 0.024 & -0.159 & -0.074*** & -0.177 & 0.031 & -0.173 & -0.072*** \\
+& (0.199) & (0.115) & (0.117) & (0.020) & (0.201) & (0.117) & (0.117) & (0.021) \\
+Singular Framing $\times$ Post-War & 0.073 & 0.250 & -0.153 & -0.024 & 0.041 & 0.233 & -0.169 & -0.021 \\
+& (0.308) & (0.180) & (0.173) & (0.034) & (0.315) & (0.183) & (0.176) & (0.035) \\
+Quantified Impact $\times$ Post-War & -0.246*** & 0.002 & -0.218*** & 0.034*** & -0.271*** & -0.012 & -0.229*** & 0.034*** \\
+& (0.092) & (0.055) & (0.050) & (0.009) & (0.094) & (0.057) & (0.051) & (0.009) \\
+\midrule
+Theme/Region/Year FE & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes \\
+Log(Goal), Duration & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes \\
+\midrule
+Observations & 27,646 & 27,646 & 27,646 & 27,646 & 27,299 & 27,299 & 27,299 & 27,299 \\
+R-squared & 0.355 & 0.090 & 0.454 & 0.190 & 0.354 & 0.090 & 0.454 & 0.191 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item \textit{Notes}: Robust standard errors in parentheses. *** p$<$0.01, ** p$<$0.05, * p$<$0.1. All models include post-war interactions. Columns 1-4: full sample; columns 5-8: non-Ukraine only. Named Individual detects specific names or ``meet [Name]'' patterns. Personal Story detects narrative language. Singular Framing = singular references / (singular + plural).
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
